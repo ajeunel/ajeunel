@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajeune (AJ)
-- 👀 I’m interested in data science, bias in AI and housing policy
-- 🌱 I’m currently learning applied data science and analytics at Howard University
-- 💞️ I’m looking to collaborate on projects that explore bias against POC in AI, enviromental factors that affect unhoused neighbors and anything that Beyonce' says is cool. 
+- 👀 I’m interested in data science, racial and gender bias in AI and housing policy
+- 🌱 I’m currently a graduate research assistance learning applied data science and analytics at Howard University #youknow
+- 💞️ I’m looking to collaborate on projects that explore bias against black and brown folks in AI, enviromental factors that affect unhoused neighbors and anything involving Beyonce'.
 - 📫 How to reach me linkedin.com/ajeunelynch
 
 <!---
